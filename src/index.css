@@ -29,7 +29,7 @@
 }
 
 .animate-marquee {
-  animation: marquee-scroll 34s linear infinite;
+  animation: marquee-scroll 38s linear infinite;
 }
 
 @media (prefers-reduced-motion: reduce) {
