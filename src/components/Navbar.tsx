@@ -99,7 +99,7 @@ export function Navbar() {
           className="flex items-center shrink-0 rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#FF7A2F]"
         >
           <img
-            src="/assets/aistudio/MR_Logo-selection__4__fc4e93fc.png"
+            src="/assets/MR_Logo-selection__4__fc4e93fc.png"
             alt="MR Logo"
             referrerPolicy="no-referrer"
             className="h-9 w-auto object-contain"

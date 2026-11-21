@@ -59,7 +59,7 @@ export const developerProfile = {
   phone: '+91 98001 41571',
   location: 'Kolkata, West Bengal, India',
   availability: 'Open to Frontend & Full-Stack Roles',
-  cvPdfPath: '/assets/aistudio/MasumReza_Frontend_914d87a5.pdf',
+  cvPdfPath: '/assets/MasumReza_Frontend_914d87a5.pdf',
   cvFileName: 'MasumReza_Frontend_CV.pdf',
   portfolioUrl: 'https://masumrezadev.netlify.app',
   githubUrl: 'https://github.com/masum011',
